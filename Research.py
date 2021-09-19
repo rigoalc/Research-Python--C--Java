@@ -1,5 +1,5 @@
 # Rodrigo Alcover
-# 08/09/2021
+# 18/09/2021
 # CIS-216-12292 
 # Python Programming
 
@@ -20,7 +20,7 @@
 
 print('''
 Python is an interpreted, object-oriented, high-level programming language with dynamic semantics. 
-It's high-level built-in data structures, combined with dynamic typing and dynamic binding, 
+Its high-level built-in data structures, combined with dynamic typing and dynamic binding, 
 make it very attractive for Rapid Application Development, as well as for use as a scripting or glue language to connect existing components. 
 Python is simple, the easy-to-learn syntax emphasizes readability and therefore reduces the cost of program maintenance.
 Was designed by: Guido van Rossum, and First appeared: February 20, 1991; 30 years ago.
@@ -50,6 +50,5 @@ Python is an interpreted language, which means the source code of a Python progr
 The difference between an interpreted and a compiled language lies in the result of the process of interpreting or compiling. 
 An interpreter produces a result from a program, while a compiler produces a program written in assembly language.
 In a compiled implementation, the original program is translated into native machine instructions, which are executed directly by the hardware.
-In an interpreted implementation, the original program is translated into something else. Another program, called "the interpreter", then examines "something else" and performs whatever actions are called for. 
-Depending on the language and its implementation, there are a variety of forms of "something else". From more popular to less popular, "something else" might be
+In an interpreted implementation, the original program is translated into something else and another program, called "the interpreter" examines "something else" and performs whatever actions are called for. 
 ''')
